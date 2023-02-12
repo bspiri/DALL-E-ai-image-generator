@@ -1,7 +1,0 @@
-{
-  "functions": {
-    "pages/api/image.ts": {
-      "maxDuration": 60
-    }
-  }
-}
