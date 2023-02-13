@@ -10,13 +10,13 @@ Technologies used:
 
 - [Next.js](https://nextjs.org/) (using the experimental features)
 - [React](https://reactjs.org/)
-- [Typescript] (https://www.typescriptlang.org/)
+- [Typescript](https://www.typescriptlang.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [OpenAI API](https://openai.com/api/)
 
 ## Setup
 
-1. Install Node.js [install it from here](https://nodejs.org/en/)
+1. Install Node.js [from here](https://nodejs.org/en/)
 
 1. Clone this repository
 
